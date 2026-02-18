@@ -1,2 +1,7 @@
-# Stationary_Management
-Stationary management System is a project based on the essential services that are provides to the students and the faculties to get the essentials at their own destination within required time to avoid long queues and crowd.
+Title of the Project:Stationery Management System
+
+*Project Details:*
+The Stationery Management System is a web-based application designed to manage stationery items efficiently. It helps in maintaining records of products, stock levels, purchases, and sales. The system reduces manual work, avoids errors, and provides quick access to inventory information.
+
+*Technology Used:*
+HTML, CSS, JavaScript (Front-end) and basic database concepts (Back-end/Storage).
